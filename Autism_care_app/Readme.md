@@ -1,1 +1,1 @@
-# Final Project for SmartPhone Class
+# Autism Care Android Application
