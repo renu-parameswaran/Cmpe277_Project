@@ -2,7 +2,7 @@
 
 ## Core Functionalities
 
-* Augmneted Reality
+* Augmented Reality
 * Interactive Chatbot
 * Emotion Detection
 * SMS Notification to parents
